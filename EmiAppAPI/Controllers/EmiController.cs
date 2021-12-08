@@ -4,7 +4,6 @@ using EmiApp;
 
 namespace EmiAppAPI.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
     public class EmiController : ControllerBase
     {
