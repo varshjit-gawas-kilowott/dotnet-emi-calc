@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2qQMONxIROuxv7ARmKNKgKF97LPG1+B/2wMfGrEPxOo=",
+  "Source": "EmiAppAPI",
+  "BasePath": "_content/EmiAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
